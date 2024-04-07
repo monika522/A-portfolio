@@ -1,3 +1,5 @@
-#Portfolio
-Successfully created portfolio using HTML, CSS, JS
-#Bharath_Intern_Task-1
+# Portfolio
+Successfully recreated portfolio using HTML, CSS, JS.
+
+#Bharat-Intern-Task-1
+
